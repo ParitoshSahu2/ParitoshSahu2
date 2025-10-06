@@ -43,17 +43,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParitoshSahu2&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshSahu2&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/paritoshsahu2" target="_blank">
+  <a href="https://www.linkedin.com/in/paritoshsahu369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:paritoshsahu9826@gmail.com">
